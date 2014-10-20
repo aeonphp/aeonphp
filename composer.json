@@ -1,0 +1,10 @@
+{
+    "name": "aeon/aeonphp",
+    "authors": [
+        {
+            "name": "Daniel Heath",
+            "email": "danielowenheath@gmail.com"
+        }
+    ],
+    "require": {}
+}
